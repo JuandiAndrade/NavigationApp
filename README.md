@@ -1,7 +1,7 @@
 # NavigationApp
 
 ## Descripción
-NavigationApp es una aplicación de navegación creada con React Native. Este proyecto utiliza varias librerías de navegación como React Navigation, incluyendo tabs, drawers y top tabs.
+NavigationApp es una aplicación de navegación creada con React Native. Este proyecto utiliza librerías de navegación como React Navigation, incluyendo tabs, drawers y top tabs. Proyecto del curso de React Native de Fernando Herrera en Udemy.
 
 
 ## Instalación
