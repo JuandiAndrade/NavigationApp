@@ -31,7 +31,7 @@ NavigationApp es una aplicación de navegación creada con React Native. Este pr
 
 ### Uso
 - Abre la aplicación en tu emulador o dispositivo.
-- Usa la interfaz de la calculadora para realizar operaciones matemáticas básicas.
+- Navega por las distintas pantallas utilizando tabs, drawers y top tabs.
 
 ## Contacto
 
