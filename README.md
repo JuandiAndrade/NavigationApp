@@ -1,7 +1,8 @@
-# iOS Calculator
+# NavigationApp
 
 ## Descripción
-Esta es una aplicación de calculadora inspirada en la interfaz de la calculadora de iOS, creada con React Native. Este proyecto es parte del curso de React Native impartido por Fernando Herrera en Udemy. La aplicación permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división con una interfaz de usuario intuitiva y atractiva.
+NavigationApp es una aplicación de navegación creada con React Native. Este proyecto utiliza varias librerías de navegación como React Navigation, incluyendo tabs, drawers y top tabs.
+
 
 ## Instalación
 
@@ -13,8 +14,8 @@ Esta es una aplicación de calculadora inspirada en la interfaz de la calculador
 ### Pasos
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/iosCalculator.git
-   cd iosCalculator
+   git clone https://github.com/tu-usuario/NavigationApp.git
+   cd NavigationApp
 2. Instala las dependencias:
    ```bash
    npm install
@@ -31,19 +32,6 @@ Esta es una aplicación de calculadora inspirada en la interfaz de la calculador
 ### Uso
 - Abre la aplicación en tu emulador o dispositivo.
 - Usa la interfaz de la calculadora para realizar operaciones matemáticas básicas.
-
-## Capturas de Pantalla
-
-Aquí hay algunas capturas de pantalla de la aplicación en funcionamiento:
-
-### Pantalla Principal
-
-<p align="center">
-  <img src="./screenshots/calculadoraiOS-1.jpeg" alt="Pantalla Principal" width="200"/>
-</p>
-<p align="center">
-  Pantalla principal de la calculadora mostrando el diseño inspirado en iOS.
-</p>
 
 ## Contacto
 
